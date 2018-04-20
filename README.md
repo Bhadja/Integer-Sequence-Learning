@@ -5,11 +5,11 @@
 	Hardik Bhadja - hxb162230<br/>
 	Karan Motani - kbm160230<br/>
 
-Extracting the latent parameters of a sequence using Baum Welch Algorithm and predicting the next element in the sequence using the latent variables learnt
+	Extracting the latent parameters of a sequence using Baum Welch Algorithm and predicting the next element in the sequence using the latent variables learnt
 
 #Run the following command to run the project. python 2.7 is required.
 
-python project.py
+	python project.py
 
 #The dataset is taken from the Kaggle competition https://www.kaggle.com/c/integer-sequence-learning.
 
