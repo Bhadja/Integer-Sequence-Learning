@@ -1,10 +1,9 @@
 # Integer Sequence Learning
 #Group Members:
-	Aditya Mahajan - axm156630
-	Hardik Bhadja - hxb162230
-	Karan Motani - kbm160230
+	Aditya Mahajan - axm156630<br/>
+	Hardik Bhadja - hxb162230<br/>
+	Karan Motani - kbm160230<br/>
 
-# Integer-Sequence-Learning
 	Extracting the latent parameters of a sequence using Baum Welch Algorithm and predicting the next element in the sequence using the latent variables learnt
 
 
