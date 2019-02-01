@@ -1,7 +1,7 @@
 from __future__ import division
 import numpy as np
 
-
+#test
 #q - transition matrix
 #p - emission probability
 #pi - initial probability
